@@ -1,0 +1,21 @@
+{
+    "name": "Stalin Crisanto",
+    "age": 25,
+    "city": "Sangolquí",
+    "born": "09-10-1996",
+    "places": [
+        {
+            "name": "Atacames",
+            "city": "Esmeraldas"
+        },
+        {
+            "name": "Baños",
+            "city": "Tungurahua"
+        },
+        {
+            "name": "Riobamba",
+            "city": "Riobamba"
+        }
+    ],
+    "vaccinated": true
+}
